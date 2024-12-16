@@ -84,5 +84,6 @@ Benefits Over Traditional On-Premises Computing
 
 
 3. Create an AWS Account with your details
+
 Created Successfully!
 
